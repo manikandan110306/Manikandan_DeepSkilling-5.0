@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.demo.repository.Country1;
+import com.example.demo.model.Country1;
 import com.example.demo.repository.CountryRepository1;
 
 import jakarta.transaction.Transactional;
