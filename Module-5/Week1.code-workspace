@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "SpringProject/demo",
+      "name": "demo"
+    }
+  ],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.home": "",
+    "[java]": {
+      "editor.defaultFormatter": "redhat.java",
+      "editor.formatOnSave": true,
+      "editor.formatOnPaste": true
+    }
+  }
+}
